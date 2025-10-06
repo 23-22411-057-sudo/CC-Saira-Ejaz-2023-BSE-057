@@ -19,7 +19,7 @@ Steps are in the following order, :
 ---
 
 ## Steps with Screenshots
-### Step 1: Download Vmware Workstation pro 
+### Step : Download Vmware Workstation pro 
 
 
 ## VMware Installation
@@ -30,12 +30,14 @@ Install VMware Workstation and create a new virtual machine. See exact screensho
 ![Step 1: Download Ubuntu Server ISO](screenshots/img_p2_2.png)
 ![Step 1: Download Ubuntu Server ISO](screenshots/img_p3_1.png)
 ![Step 1: Download Ubuntu Server ISO](screenshots/img_p3_2.png)
+
 - Installation 
+
 ![Step 1: Download Ubuntu Server ISO](screenshots/img_p4_1.png)
 ![Step 1: Download Ubuntu Server ISO](screenshots/img_p4_2.png)
 
 
-### Step 2: Download Ubuntu Server ISO
+### Step 1: Download Ubuntu Server ISO
 
 - Download Ubuntu Server ISO from the official Ubuntu website (https://ubuntu.com/download/server).
 - Save it somewhere on your computer.
@@ -58,7 +60,7 @@ Install VMware Workstation and create a new virtual machine. See exact screensho
 
 
 
-### Step 3: Create a new virtual machine in VMware Workstation
+### Step 2: Create a new virtual machine in VMware Workstation
 
 - Open VMware Workstation Pro.
 - Click **Create a New Virtual Machine**.
