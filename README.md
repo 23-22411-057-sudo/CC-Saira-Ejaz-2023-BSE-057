@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab1 - Cloud Computing Lab (with Screenshots)
 
 This README file includes **step-by-step instructions** with screenshots extracted directly from the original lab PDF.
@@ -188,3 +189,7 @@ git push -u origin main
 ## End of Lab 1
 
 All screenshots above were extracted automatically from the original lab PDF provided by the student.
+=======
+# CC-Saira-Ejaz-2023-BSE-057
+Cloud Computing Lab 1 &amp; 2 private repository
+>>>>>>> ec2fd1138e7e792a055b311a9043400a7903c0e3
